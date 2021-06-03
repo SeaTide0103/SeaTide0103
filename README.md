@@ -16,22 +16,9 @@
 !-->
 
 
-<style>
-    .left {
-      float: left;
-      width: 300px;
-      height: 300px;
-      background-color: red;
-    }
-    .right {
-      background-color: orange;
-      margin-left: 310px;
-      height: 300px;
-    }
-</style>
-<div class="left">
+<div style=" float: left; width: 300px; height: 300px; background-color: red;">
 111
 </div>
-<div class="right">
+<div style=" background-color: orange; margin-left: 310px; height: 300px;">
 222
 </div>
