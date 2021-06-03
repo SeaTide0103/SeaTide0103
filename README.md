@@ -14,3 +14,24 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeaTide0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 !-->
+
+
+<style>
+    .left {
+      float: left;
+      width: 300px;
+      height: 300px;
+      background-color: red;
+    }
+    .right {
+      background-color: orange;
+      margin-left: 310px;
+      height: 300px;
+    }
+</style>
+<div class="left">
+111
+</div>
+<div class="right">
+222
+</div>
