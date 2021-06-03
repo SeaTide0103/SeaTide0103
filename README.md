@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm SeaTide
 
-<html>
-    <table style="margin: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...  
@@ -13,10 +8,16 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<html>
+    <table style="margin: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+
             </td>
             <td>
                 <!--右侧内容-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaTide0103&show_icons=true&theme=cobalt)
+<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaTide0103&show_icons=true&theme=cobalt)">
             </td>
         </tr>
     </table>
