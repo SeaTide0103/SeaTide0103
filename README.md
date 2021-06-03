@@ -9,16 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaTide0103&show_icons=true&theme=cobalt)
+![SeaTide's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaTide0103&show_icons=true&theme=cobalt#pic_right)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeaTide0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 !-->
-
-
-<div style="float: left; width: 300px; height: 300px; background-color: red;">
-111
-</div>
-<div style="float: right; background-color: orange; margin-left: 310px; height: 300px;">
-222
-</div>
