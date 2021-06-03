@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**SeaTide0103/SeaTide0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm SeaTide
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,14 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SeaTide0103&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SeaTide0103&repo=convoychat" />
-</a>
 
-<!--
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaTide0103&show_icons=true&theme=cobalt)
-!-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaTide0103&show_icons=true&theme=cobalt)
+
 
